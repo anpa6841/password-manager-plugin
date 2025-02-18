@@ -5,42 +5,6 @@
 - Click on Load unpacked
 - Select the project folder
 
-### Create Account
+### Demo
 
-<img src="./screenshots/create-account.png" alt="drawing" width="400"/>
-
-### Login
-
-<img src="./screenshots/login.png" alt="drawing" width="400"/>
-
-### Display passwords
-
-<img src="./screenshots/view-passwords.png" alt="drawing" width="400"/>
-
-### Add Password
-
-<img src="./screenshots/add-password.png" alt="drawing" width="400"/>
-
-### Edit Password
-
-<img src="./screenshots/edit-password.png" alt="drawing" width="400"/>
-
-### Generate Password
-
-<img src="./screenshots/generate-password.png" alt="drawing" width="400"/>
-
-### Export Passwords
-
-<img src="./screenshots/export-passwords.png" alt="drawing" width="400"/>
-
-### Import Passwords
-
-<img src="./screenshots/import-passwords.png" alt="drawing" width="400"/>
-
-### Show Password
-
-<img src="./screenshots/show-password.png" alt="drawing" width="400"/>
-
-### Hide Password
-
-<img src="./screenshots/hide-password.png" alt="drawing" width="400"/>
+https://github.com/user-attachments/assets/d8392220-17a3-44c8-9a87-913b4c86d454
