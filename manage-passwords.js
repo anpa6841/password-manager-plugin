@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function() {
         listItem.append(link);
         listItem.appendChild(deletePasswordButton);
         listItem.appendChild(editPasswordButton);
-        listItem.appendChild(autoFillButton);
+        // listItem.appendChild(autoFillButton);
 
         editPasswordButton.onclick = function() {
             // disable edit button
@@ -157,9 +157,9 @@ document.addEventListener("DOMContentLoaded", function() {
             });
         }
 
-        autoFillButton.onclick = function() {
-            autoFill(autoFillButton);
-        };
+        // autoFillButton.onclick = function() {
+        //     autoFill(autoFillButton);
+        // };
         return listItem;
     }
 
